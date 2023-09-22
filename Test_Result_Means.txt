@@ -1,0 +1,1 @@
+The test results were able to give a more detailed message, letting you create a way to ensure that a part/multiple parts of your code are working how YOU intend them to. The test results mean that, depending on what exactly you are trying to test, that the code has some sort of error specific to how the code is NOT working properly for your expected outcome(s).
